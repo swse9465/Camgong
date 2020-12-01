@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <item
+        android:state_pressed="true"
+        android:drawable="@drawable/button_custom_post" />
+    <item
+        android:drawable="@drawable/button_custom_pre2" />
+</selector>

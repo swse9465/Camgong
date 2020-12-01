@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1AB3C6</color>
+    <color name="colorPrimaryDark">#08658F</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="textColor">#00D4EF</color>
+    <color name="textBlack">#4C4848</color>
+    <color name="btnBackColor">#5ACDE1</color>
+    <color name="cancelBtnBackColor">#E2E2E2</color>
+    <color name="calendar">#B9E9FF</color>
+    <color name="white">#FFFFFF</color>
+    <color name="study">#7AF0FF</color>
+    <color name="focusStudy">#34C7DA</color>
+
+</resources>

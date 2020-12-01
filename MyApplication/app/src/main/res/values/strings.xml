@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">캠공</string>
+    <string name="text_default">loading fail</string>
+    <string name="real_time">Real Time</string>
+    <string name="total_time">Total Time</string>
+    <string name="recommend_time">Recommend Times</string>
+    <string name="max_focus_time">Max Focus Time</string>
+    <string name="ok">OK</string>
+    <string name="permission_camera_rationale">Access to the camera is needed for detection</string>
+    <string name="no_camera_permission">This application cannot run because it does not have the camera permission.  The application will now exit.</string>
+    <string name="low_storage_error">Face detector dependencies cannot be downloaded due to low device storage</string>
+    <string name="goal">목표 설정</string>
+</resources>
